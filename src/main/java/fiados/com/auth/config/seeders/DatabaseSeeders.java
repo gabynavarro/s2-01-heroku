@@ -28,6 +28,7 @@ public class DatabaseSeeders {
             createRoles();
         }
     }
+    
 
     private void createRoles() {
         createRole(1L, EnumRoles.USER);
