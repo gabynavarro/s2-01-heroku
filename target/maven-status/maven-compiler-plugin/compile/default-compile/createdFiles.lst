@@ -1,0 +1,8 @@
+fiados/com/service/abstraction/AuthService.class
+fiados/com/service/abstraction/RoleService.class
+fiados/com/models/request/UserRegister.class
+fiados/com/models/request/AuthRequest.class
+fiados/com/auth/config/seeders/DatabaseSeeders.class
+fiados/com/models/response/AuthResponse.class
+fiados/com/repository/UserRepository.class
+fiados/com/ComApplication.class
